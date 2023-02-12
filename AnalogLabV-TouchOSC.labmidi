@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rootnode>
+	<midiconfig name="AnalogLabV-TouchOSC">
+		<assignment controller="16" channel="0" paramid="327" min="0.000000" max="1.000000" isrelative="0"/>
+		<assignment controller="17" channel="0" paramid="328" min="0.000000" max="1.000000" isrelative="0"/>
+		<assignment controller="18" channel="0" paramid="323" min="0.000000" max="1.000000" isrelative="0"/>
+		<assignment controller="19" channel="0" paramid="325" min="0.000000" max="1.000000" isrelative="0"/>
+		<assignment controller="28" channel="0" paramid="366" min="0.000000" max="1.000000" isrelative="0"/>
+		<assignment controller="29" channel="0" paramid="367" min="0.000000" max="1.000000" isrelative="0"/>
+		<assignment controller="71" channel="0" paramid="322" min="0.000000" max="1.000000" isrelative="0"/>
+		<assignment controller="72" channel="0" paramid="333" min="0.000000" max="1.000000" isrelative="0"/>
+		<assignment controller="73" channel="0" paramid="330" min="0.000000" max="1.000000" isrelative="0"/>
+		<assignment controller="74" channel="0" paramid="320" min="0.000000" max="1.000000" isrelative="0"/>
+		<assignment controller="75" channel="0" paramid="331" min="0.000000" max="1.000000" isrelative="0"/>
+		<assignment controller="76" channel="0" paramid="324" min="0.000000" max="1.000000" isrelative="0"/>
+		<assignment controller="77" channel="0" paramid="326" min="0.000000" max="1.000000" isrelative="0"/>
+		<assignment controller="79" channel="0" paramid="332" min="0.000000" max="1.000000" isrelative="0"/>
+		<assignment controller="80" channel="0" paramid="334" min="0.000000" max="1.000000" isrelative="0"/>
+		<assignment controller="81" channel="0" paramid="335" min="0.000000" max="1.000000" isrelative="0"/>
+		<assignment controller="82" channel="0" paramid="336" min="0.000000" max="1.000000" isrelative="0"/>
+		<assignment controller="83" channel="0" paramid="337" min="0.000000" max="1.000000" isrelative="0"/>
+		<assignment controller="85" channel="0" paramid="338" min="0.000000" max="1.000000" isrelative="0"/>
+		<assignment controller="93" channel="0" paramid="321" min="0.000000" max="1.000000" isrelative="0"/>
+		<assignment controller="111" channel="0" paramid="357" min="0.000000" max="1.000000" isrelative="0"/>
+		<assignment controller="112" channel="0" paramid="358" min="0.000000" max="1.000000" isrelative="1"/>
+		<assignment controller="113" channel="0" paramid="359" min="0.000000" max="1.000000" isrelative="0"/>
+		<assignment controller="114" channel="0" paramid="356" min="0.000000" max="1.000000" isrelative="1"/>
+	</midiconfig>
+</rootnode>
+
