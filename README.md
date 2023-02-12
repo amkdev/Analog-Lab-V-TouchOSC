@@ -2,7 +2,7 @@
  
 Are you tired of browsing tons of Analog Lab V presets with mouse or knobs on your midi controller? Here is the solution: use your tablet to control the Analog Lab V software synthesizer remotely.
 
-This TouchOSC control surface provides atm a virutal keyboard for playing notes, buttons for selecting/loading presets and 18 knobs/faders to control parameters. Three screens prioritise different use cases ...
+This TouchOSC control surface provides a virutal keyboard for playing notes, buttons for selecting/loading presets and 18 knobs/faders to control parameters. Three screens prioritize different use cases ...
 
 ![Screenshot](screenshots/screen1.jpg)
 
