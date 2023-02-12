@@ -6,6 +6,9 @@ This TouchOSC control surface provides a virutal keyboard for playing notes, but
 
 ![Screenshot](screenshots/screen1.jpg)
 
+### See it in action
+[https://www.youtube.com/watch?v=Fj0vL6tI1dE](https://www.youtube.com/watch?v=Fj0vL6tI1dE)
+
 ## Instructions
 1. Get your TouchOSC working so a TouchOSC Bridge / TouchOSC Midi port is available on your computer.
 2. Use this port in your Analog Lab V audio Midi settings.
