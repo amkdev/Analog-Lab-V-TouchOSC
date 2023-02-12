@@ -19,9 +19,8 @@ Loading a preset needs a double tap. That's why you find these darker blue butto
     
 The control surface is made for an iPad - that's why it's 4:3 and not 16:9.
 
-##Issues
+## Issues
 While working on this I noticed serval times, that Analog Lab V no longer reacts on the "Select Preset" control midi message. I found out that changing the control behaviour from absolute to relative fixed this issue. So if this happens to you, go to Settings > MIDI (in Analog Lab V), select "CC 111 Select Preset", right click and change it to relative. 
 
-##License
-
+## License
 This is open-sourced software licensed under the MIT license.
